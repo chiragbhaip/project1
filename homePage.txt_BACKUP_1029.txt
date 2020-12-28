@@ -3,5 +3,4 @@ Hello Chirag
 This is update in master
 =======
 this is the update in dev branch
-this is change
 >>>>>>> dev
